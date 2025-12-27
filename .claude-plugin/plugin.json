@@ -1,0 +1,9 @@
+{
+  "name": "rag-ollama",
+  "description": "Plugin générique et adaptatif pour créer N'IMPORTE QUELLE application RAG avec FastAPI, LangChain, Qdrant, Ollama et Next.js. Optimisé pour MacBook M1 Pro 16GB.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Code",
+    "email": "support@anthropic.com"
+  }
+}
